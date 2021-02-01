@@ -6,7 +6,7 @@ My simple and responsive single-page portfolio of my projects.
 
 ## Screenshot 
 
-![Screenshot]  (https://raw.githubusercontent.com/adokoye/project-portfolio/main/docs/project-portfolio-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/adokoye/project-portfolio/main/docs/project-portfolio-screenshot.png)
 
  ## Contact
 
