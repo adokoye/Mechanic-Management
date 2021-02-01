@@ -4,7 +4,7 @@
 My simple and responsive single-page portfolio of my projects.
 
 ## Screenshot 
-![Screenshot]
+![Screenshot] (https://github.com/adokoye/project-portfolio/blob/main/docs/project-portfolio-screenshot.png)
  
  ## Contact
  adaobicynthia99@gmail.com
