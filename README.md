@@ -3,7 +3,7 @@
 ## Description:
 My simple and responsive single-page portfolio of my projects.
 
-View the [demo here](https://adokoye.github.io/project-portfolio/).
+View the [demo here](https://github.com/adokoye/project-portfolio/blob/main/Develop/assets/images/project-portfolio-gif.mov).
 <<<<<<< HEAD
  
  ## Contact
