@@ -3,16 +3,11 @@
 ## Description:
 My simple and responsive single-page portfolio of my projects.
 
-View the [demo here](https://github.com/adokoye/project-portfolio/blob/main/Develop/assets/images/project-portfolio-gif.mov).
-<<<<<<< HEAD
+## Screenshot 
+![Screenshot]
  
  ## Contact
  adaobicynthia99@gmail.com
-=======
-
-  ## Credits:
-
-Curated by Adaobi C Okoye
 
   
   ## Questions:
@@ -22,4 +17,3 @@ Curated by Adaobi C Okoye
 
   If you have any additional questions, feel free to email them to me:
   - [Email](adaobicynthia99@gmail.com)
->>>>>>> 098b85049c2a8df884093d3107e68c84f388241e
