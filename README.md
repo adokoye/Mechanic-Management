@@ -1,8 +1,9 @@
 # Project Portfolio
-A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
+A simple and responsive single-page portfolio.
 
 View the [demo here](https://adokoye.github.io/project-portfolio/).
  
  ## Contact
  adaobicynthia99@gmail.com
  
+# project-portfolio
