@@ -1,19 +1,14 @@
 # Adaobi C Okoye Project Portfolio
 
-## Description:
+## Description
+
 My simple and responsive single-page portfolio of my projects.
 
 ## Screenshot 
-![Screenshot] (https://github.com/adokoye/project-portfolio/blob/main/docs/project-portfolio-screenshot.png)
- 
+
+![Screenshot]  (https://raw.githubusercontent.com/adokoye/project-portfolio/main/docs/project-portfolio-screenshot.png)
+
  ## Contact
- adaobicynthia99@gmail.com
 
-  
-  ## Questions:
-
-  For any questions you may have, please visit my Github profile:
-  - [Github Profile](https://github.com/adokoye)
-
-  If you have any additional questions, feel free to email them to me:
+ Feel free to email them to me:
   - [Email](adaobicynthia99@gmail.com)
